@@ -1,5 +1,5 @@
 # Getting Started with npm dependencies
--clone
+- clone
 ### `npm install`
 ## Please don't use yarn to install any dependencies
 
